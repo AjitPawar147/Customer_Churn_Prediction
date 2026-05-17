@@ -1,20 +1,6 @@
-# ============================================================
-# CUSTOMER CHURN PREDICTOR - FULL WORKING CODE
-# ============================================================
 
-# RUN:
-# streamlit run app.py
+# CUSTOMER CHURN PREDICTOR 
 
-# INSTALL:
-# pip install streamlit pandas numpy scikit-learn matplotlib
-
-# DATASET:
-# Download:
-# https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-#
-# Put this CSV file in same folder:
-# WA_Fn-UseC_-Telco-Customer-Churn.csv
-# ============================================================
 
 import streamlit as st
 import pandas as pd
